@@ -1,0 +1,21 @@
+{
+  "name": "teste_idade",
+  "version": "1.0.0",
+  "description": "exemplo modulo 3 semana 3",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Marcio Paiva",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
